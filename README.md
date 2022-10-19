@@ -7,5 +7,5 @@
 <li> Página simples de artigos com links externos. </li>
 </ul>
 
-<strong> Blog é um pequeno desafio para treino de html, autoral.</strong>
+<strong> Blog é um pequeno desafio para treino de html, não é responsivo, feito de forma autoral.</strong>
 <strong> Obrigado(a) pela visita !! =^.^= </strong>
